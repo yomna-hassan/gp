@@ -12,8 +12,10 @@ namespace api_project.Controllers
         {
             ViewBag.Title = "gp page aaaaa";
 
-
             int x = 5;
+
+
+            
 
             return View();
         }
