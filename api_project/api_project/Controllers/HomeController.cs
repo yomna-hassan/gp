@@ -17,6 +17,9 @@ namespace api_project.Controllers
 =======
 >>>>>>> 874861e21eb059fdf486958868d23cc6d61c7bcb
 
+
+            int x = 5;
+
             return View();
         }
     }
