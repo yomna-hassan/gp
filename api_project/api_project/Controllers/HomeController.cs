@@ -11,6 +11,11 @@ namespace api_project.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "gp page aaaaa";
+<<<<<<< HEAD
+
+            int x = 5;
+=======
+>>>>>>> 874861e21eb059fdf486958868d23cc6d61c7bcb
 
             return View();
         }
