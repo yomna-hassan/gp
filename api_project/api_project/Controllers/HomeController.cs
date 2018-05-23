@@ -10,7 +10,9 @@ namespace api_project.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "gp page";
+            ViewBag.Title = "gp page aaaaa";
+
+            int x = 5;
 
             return View();
         }
